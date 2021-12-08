@@ -1,0 +1,9 @@
+for i in range(int(input())):
+    print(i**2)
+        
+    #DIVISION
+    if __name__ == '__main__':
+    a = int(4)
+    b = int(3)
+    print(4//3)
+    print(4/3)
