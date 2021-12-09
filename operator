@@ -6,3 +6,15 @@ subtract = int(a)-int(b)
 print(subtract)
 multiply = int(a)*int(b)
 print(multiply)
+OR
+if __name__== '__main__':
+   a = int(input())
+   b = int(input())
+   print(a+b)
+   print(a-b)
+   print(a*b)
+   #DIVISION 
+   print(a/b)if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    print(a//b)
